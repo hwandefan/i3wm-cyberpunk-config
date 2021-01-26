@@ -44,7 +44,7 @@
    </p>
    
 
-   <h2>Some additional packages for CLI<h2>
+   <h2>Some additional packages for CLI</h2>
   <p>
     CLI File manager - ranger <br />
     Music/video player - MPV <br />
