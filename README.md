@@ -12,7 +12,7 @@
   5) xfce4-panel <br />
   6) Arc-Dark theme <br />
   7) lxappearance <br />
-  8) i3-lock
+  8) i3-lock <br />
   9) Pulse audio
 </p>
 
@@ -22,9 +22,11 @@
   2) Open lxappearance and change theme on "Arc-Dark"  <br />
   3) Then open xfce4-terminal preferences and on "Colors" tab in "Palette" change 11 color on :#558FFF <br />
   4) Copy i3wm .config file to your i3WM config folder (or file text in your config file) <br />
-  5) Restart your I3 wm <br />
-  6) Change xfce4-panel with components for you (Here isn't config file, only GUI setup) <br />
-  7) Change autostart programs for you
+  5) Copy "logout_script" folder into .config folder on your system <br />
+  6) Change in /logout_script/test.sh path to lockscreen image on 9 line<br />
+  7) Restart your I3 wm <br />
+  8) Change xfce4-panel with components for you (Here isn't config file, only GUI setup) <br />
+  9) Change autostart programs for you
   </p>
 
 <h2>Links:</h2>
