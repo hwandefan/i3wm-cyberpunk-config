@@ -1,7 +1,7 @@
 # i3wm-cyberpunk-config
 <h1>Preview:</h1>
 <img src="https://raw.githubusercontent.com/hwandefan/i3wm-cyberpunk-config/master/README_IMAGE.png"/>
-<hr />
+
 <h1>Instructions:</h1>
 <h2>Packages needed to install:</h2>
 <p>
@@ -15,7 +15,7 @@
   8) i3-lock
   9) Pulse audio
 </p>
-<hr />
+
 <h2>Steps after packages installation:</h2>
 <p>
   1) You need to select standard theme: "Android theme by Rafi" in rofi-theme-selector <br />
@@ -26,10 +26,10 @@
   6) Change xfce4-panel with components for you (Here isn't config file, only GUI setup) <br />
   7) Change autostart programs for you
   </p>
-<hr />
+
 <h2>Links:</h2>
 <p>WP: <a href="https://images.wallpapersden.com/image/download/cyberpunk-2077-female-v-minimalist_bGhpbmuUmZqaraWkpJRobWllrWdpZWU.jpg">HERE</a></p>
-<hr />
+
 <h2>Basic instructions for hotkeys:</h2>
 <p>
   Win+Enter - Open xfce4-terminal<br />
@@ -43,7 +43,7 @@
   Win+Shift+Arrows - Change windows.
    </p>
    
-   <hr />
+
    <h2>Some additional packages for CLI<h2>
   <p>
     CLI File manager - ranger <br />
