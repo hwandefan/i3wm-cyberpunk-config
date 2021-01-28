@@ -26,7 +26,8 @@
   6) Change in /logout_script/test.sh path to lockscreen image on 9 line<br />
   7) Restart your I3 wm <br />
   8) Change xfce4-panel with components for you (Here isn't config file, only GUI setup) <br />
-  9) Change autostart programs for you
+  9) Change autostart programs for you <br />
+  10) Set your wallpaper with nitrogen
   </p>
 
 <h2>Links:</h2>
